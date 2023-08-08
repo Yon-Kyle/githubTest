@@ -1,2 +1,2 @@
 # githubTest
-init public github project 
+init public GitHub project 
